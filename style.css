@@ -1,0 +1,28 @@
+
+.col .card{
+    border:0;
+}
+
+.card .card-footer{
+    border:0;
+    background-color: white;
+}
+.categories img{
+    width:100px;
+}
+
+.sell-slide{
+    background-color: pink;
+    border-radius:10px;
+}
+
+header img{
+    border-radius: 10px;
+}
+
+nav{
+    border-radius: 5px;
+    background-color:tomato;
+    color: #0400ff;
+}
+
