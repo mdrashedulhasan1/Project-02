@@ -23,6 +23,6 @@ header img{
 nav{
     border-radius: 5px;
     background-color:tomato;
-    color: #0400ff;
+    color: hsl(113, 100%, 50%);
 }
 
